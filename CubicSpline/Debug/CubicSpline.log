@@ -1,0 +1,4 @@
+﻿  CubicSpline.cpp
+c:\users\groma\documents\visual studio 2015\projects\cubicspline\cubicspline\cubicspline.cpp(143): warning C4715: Ellipse: значение возвращается не при всех путях выполнения
+  CubicSpline.vcxproj -> C:\Users\groma\Documents\Visual Studio 2015\Projects\CubicSpline\Debug\CubicSpline.exe
+  CubicSpline.vcxproj -> C:\Users\groma\Documents\Visual Studio 2015\Projects\CubicSpline\Debug\CubicSpline.pdb (Full PDB)
